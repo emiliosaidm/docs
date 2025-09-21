@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Meefi API Docs",
   "colors": {
-    "primary": "#004aad",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#0530CE",
+    "light": "#004aad",
+    "dark": "#0530CE"
   },
   "favicon": "/favicon.svg",
   "navigation": {
